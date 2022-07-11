@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "630056958221",
+    "firebase_url": "https://sqrchat-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "sqrchat",
+    "storage_bucket": "sqrchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630056958221:android:39ab7fddd40dc39c32d844",
+        "android_client_info": {
+          "package_name": "com.squorpikkor.sqrchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630056958221-sft179glokf6fh97ous9695vq18401jf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.squorpikkor.sqrchat",
+            "certificate_hash": "27b7de1cd6ed7bc9b123319f0adb5ca88db571d5"
+          }
+        },
+        {
+          "client_id": "630056958221-smn3tmv2cgmpaiglpc220s2ggd53dqns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6B41VLjwhvI5NWaWrKNVfV2qezkzWIcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630056958221-smn3tmv2cgmpaiglpc220s2ggd53dqns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
